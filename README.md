@@ -19,7 +19,7 @@
 - For state management redux is used.
 
 
-## Insatll Dependencies
+## Install Dependencies
 
     $ npm install
 
